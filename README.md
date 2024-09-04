@@ -53,3 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any queries, please open an issue on the [GitHub repository](https://github.com/brainupgrade-in/weather-py).
 
+
